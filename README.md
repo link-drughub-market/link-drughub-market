@@ -27,4 +27,6 @@ If you are aiming to explore everything this darknet marketplace offers, priorit
 
 
 
-Update: Fixed broken url, now accessible and working
+
+
+Update: Fixed url
