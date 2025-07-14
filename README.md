@@ -31,4 +31,6 @@ If you are aiming to explore everything this darknet marketplace offers, priorit
 
 
 
-Update: link is up and running
+
+
+Update: url is up and running again
