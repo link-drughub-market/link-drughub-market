@@ -33,4 +33,6 @@ If you are aiming to explore everything this darknet marketplace offers, priorit
 
 
 
-Update: url is up and running again
+
+
+Update:  Friday 18 July 2025 Route fixes
