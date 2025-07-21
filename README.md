@@ -35,4 +35,6 @@ If you are aiming to explore everything this darknet marketplace offers, priorit
 
 
 
-Update:  Friday 18 July 2025 Route fixes
+
+
+Update:  Monday 21 July 2025
