@@ -41,4 +41,6 @@ If you are aiming to explore everything this darknet marketplace offers, priorit
 
 
 
-Update:  04 August Link is now live and reachable
+
+
+Update:  13.08.2025 url is now working and available
