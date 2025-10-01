@@ -53,4 +53,6 @@ If you are aiming to explore everything this darknet marketplace offers, priorit
 
 
 
-Update:  18.09.2025 link is back up and running
+
+
+Update:  01.10.2025
